@@ -88,13 +88,14 @@ Anhang
 .. toctree::
    :maxdepth: 1
 
+   exercises/penguin_roundtrip.rst
    exercises/select_penguins.rst
    exercises/pivot_penguins.rst
    babynames/read_data.rst
    babynames/timeline.rst
    babynames/last_letters.rst
    klimastreifen/README.rst
-   titanic/README.rst
+   exercises/titanic.rst
    gapminder/README.rst
    
 Lizenz

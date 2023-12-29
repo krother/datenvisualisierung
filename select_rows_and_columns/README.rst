@@ -75,7 +75,7 @@ Falls der Index eines DataFrames etwas anderes als Zahlen enthält, ist folgende
 ----
 
 Nach Werten filtern
----------------
+-------------------
 
 Die Zeilen eines `DataFrame` lassen sich nach unterschiedlichen Kriterien filtern:
 
