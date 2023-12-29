@@ -33,6 +33,7 @@ Daten in Python
    read_write_data/README.rst
    select_rows_and_columns/README.rst
    aggregation/README.rst
+   pivot/README.rst
    inspect_data_frames/README.rst
    descriptive_statistics/README.rst
    time_series/README.rst
@@ -90,7 +91,7 @@ Anhang
    babynames/timeline.rst
    babynames/last_letters.rst
    klimastreifen/README.rst
-   titanic.rst
+   titanic/README.rst
    gapminder/README.rst
    
 Lizenz
