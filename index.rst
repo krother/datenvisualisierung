@@ -82,12 +82,14 @@ Anhang
    links.rst
 
 
-Übungsprojekte
---------------
+Übungen
+-------
 
 .. toctree::
    :maxdepth: 1
 
+   exercises/select_penguins.rst
+   exercises/pivot_penguins.rst
    babynames/read_data.rst
    babynames/timeline.rst
    babynames/last_letters.rst
