@@ -92,8 +92,7 @@ Anhang
    klimastreifen/README.rst
    titanic.rst
    gapminder/README.rst
-   beakonomics.rst
-
+   
 Lizenz
 ------
 
