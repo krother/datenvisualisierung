@@ -90,6 +90,7 @@ Anhang
 
    exercises/penguin_roundtrip.rst
    exercises/select_penguins.rst
+   exercises/describe_penguins.rst
    exercises/pivot_penguins.rst
    babynames/read_data.rst
    babynames/timeline.rst
