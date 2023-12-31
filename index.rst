@@ -44,7 +44,6 @@ Diagramme erstellen
 .. toctree::
    :maxdepth: 1
 
-   plotting/README.rst
    balk
    streu
    box
@@ -53,8 +52,8 @@ Diagramme erstellen
    heat
    choro
    marker
+   plotting/high_quality.rst
    plotting_maps/README.rst
-   finetunig axes
    als png spei
    ani gif
 
