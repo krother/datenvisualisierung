@@ -31,10 +31,10 @@ Daten in Python
    :maxdepth: 1
 
    read_write_data/README.rst
+   inspect_data_frames/README.rst
    select_rows_and_columns/README.rst
    aggregation/README.rst
    pivot/README.rst
-   inspect_data_frames/README.rst
    descriptive_statistics/README.rst
    time_series/README.rst
 

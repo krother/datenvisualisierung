@@ -1,6 +1,6 @@
 
-Statistik mit Pinguinen
------------------------
+Pinguinstatistik
+----------------
 
 Lade den Pinguin-Datensatz:
 
