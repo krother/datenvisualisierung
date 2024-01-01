@@ -30,9 +30,8 @@ Du solltest jetzt eine ZIP-Datei mit einer Tabelle in einem Textformat erhalten.
 .. warning::
 
    Die ECAD-Daten sind zur öffentlichen Nutzung freigegeben.
-  Allerdings ist es nicht erlaubt, die Rohdaten weiter zu verteilen
-  (auf GitHub o.ä.).
-
+   Allerdings ist es nicht erlaubt, die Rohdaten weiter zu verteilen
+   (auf GitHub o.ä.).
 
 
 Schritt 2: Lies die Daten in pandas ein

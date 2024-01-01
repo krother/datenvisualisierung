@@ -56,13 +56,11 @@ Dashboards
 .. toctree::
    :maxdepth: 1
 
-   streamlit
-   dashboard
-   slider
-   layout + tabs
-   markdown
-   unterseiten
-   cloud deploy
+   dashboard/streamlit
+   dashboard/plots
+   dashboard/controls
+   dashboard/styling
+   dashboard/deploy.rst
 
 Anhang
 ------
