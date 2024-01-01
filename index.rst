@@ -20,9 +20,8 @@ Vorbereitung
 .. toctree::
    :maxdepth: 1
 
-   vorbereitungen ana jupy spy git
-   preparations/README.rst
-   data_sources
+   preparations/uebersicht.rst
+   preparations/installation.rst
 
 Daten in Python
 ---------------
@@ -86,9 +85,6 @@ Anhang
    exercises/select_penguins.rst
    exercises/describe_penguins.rst
    exercises/pivot_penguins.rst
-   babynames/read_data.rst
-   babynames/timeline.rst
-   babynames/last_letters.rst
    klimastreifen/README.rst
    exercises/titanic.rst
    gapminder/README.rst

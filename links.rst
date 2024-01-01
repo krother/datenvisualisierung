@@ -11,12 +11,14 @@ Python und pandas
 - `Pandas Übungen <https://github.com/guipsamora/pandas_exercises>`__ – von @guipsamora
 - `Academis <http://www.academis.eu>`__ – Übungen und Materialien rund um Python 
 
+
 Visualisierung
 --------------
 
 - `Seborn Gallery <https://seaborn.pydata.org/examples/index.html>`__ – Beispielplots für Copy-Paste
 - `Python Graph Gallery <https://python-graph-gallery.com/>`__ – Beispielplots mit Code
 - `Einführung in Matplotlib auf scipy-lectures.org <https://scipy-lectures.org/intro/matplotlib/index.html>`__
+- `PyViz-Tutorial <https://pyviz-tutorial.readthedocs.io/de/latest/overview.html>`__ - Überblick über zahlreiche andere Python-Technologien zum Plotten
 - `Plotly <https://plotly.com/python/>`__ – eine weitere Python-Bibliothek zum Visualisieren.
 - `Claus Wilkes Buch über Datenvisualisierung <https://github.com/clauswilke/dataviz>`__
 - `Fortgeschrittene Plotting-Tutorials <https://python-graph-gallery.com/best-python-chart-examples/>`__
@@ -25,5 +27,6 @@ Visualisierung
 Grossartige Datenvisualisierungen
 ---------------------------------
 
+- `Your Data, Your Insights <https://www.youtube.com/watch?v=_XvD83yhe3E>`__ – von Paula Gonzalez
 - `Information is Beautiful <https://www.informationisbeautifulawards.com/showcase?award=2022&type=awards>`__
 - `Digital Nomad Dashboard <https://nomadlist.com/digital-nomad-statistics>`__
