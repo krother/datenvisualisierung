@@ -1,6 +1,6 @@
 
-Übung: Pinguine lesen und schreiben
------------------------------------
+Pinguine lesen und schreiben
+----------------------------
 
 Schicke folgenden Datensatz auf eine Rundreise:
 
