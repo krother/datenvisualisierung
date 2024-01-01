@@ -44,18 +44,12 @@ Diagramme erstellen
 .. toctree::
    :maxdepth: 1
 
-   balk
-   streu
-   box
-   histo
-   lini
-   heat
-   choro
-   marker
+   plotting/standardplots.rst
    plotting/high_quality.rst
    plotting_maps/README.rst
-   als png spei
-   ani gif
+   choro
+   marker
+   anigif
 
 Dashboards
 ----------

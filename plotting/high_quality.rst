@@ -121,7 +121,7 @@ Schritt 8: Größe
 Du kannst eine größer Abbildung wählen.
 Die Größe wird aus historischen Gründen in Zoll angegeben.
 
-.. code::
+.. code:: python
 
    plt.figure(figsize=(11, 7))
    sns.scatterplot(data=df, x='bill_length_mm', y='bill_depth_mm', hue='species', size='flipper_length_mm')
@@ -136,6 +136,8 @@ Dazu dient die Angabe `dpi` (dots per inch).
 Die finale Größe berechnet sich also aus `figsize` und `dpi`:
 
 Matplotlib kann viele Bildformate exportieren, darunter png, jpg und svg.
+
+.. code:: python
 
    sns.scatterplot(data=df, x='bill_length_mm', y='bill_depth_mm', hue='species', size='flipper_length_mm')
    plt.savefig("abbildung_1.png")
