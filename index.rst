@@ -81,6 +81,7 @@ Anhang
 .. toctree::
    :maxdepth: 1
 
+   exercises/simple_diagrams.rst
    exercises/penguin_roundtrip.rst
    exercises/select_penguins.rst
    exercises/describe_penguins.rst

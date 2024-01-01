@@ -34,8 +34,8 @@ Falls die Spaltennamen Zahlen sind, werden sie in Integers umgewandelt.
 Bei `pd.read_csv()` sind die Spaltennamen stets Strings.
 
 
-Read JSON
----------
+JSON-Dokumente einlesen
+-----------------------
 
 JSON-Dokumente lassen sich problemarm einlesen, falls sie eine tabellenähnliche Struktur aufweisen:
 
