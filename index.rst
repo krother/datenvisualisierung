@@ -45,9 +45,8 @@ Diagramme erstellen
 
    plotting/standardplots.rst
    plotting/high_quality.rst
-   plotting_maps/README.rst
-   choro
-   marker
+   maps/map_markers.rst
+   maps/choropleth.rst
    anigif
 
 Dashboards
@@ -86,6 +85,7 @@ Anhang
    klimastreifen/README.rst
    exercises/titanic.rst
    gapminder/README.rst
+   exercises/covid.rst
    
 Lizenz
 ------

@@ -11,7 +11,6 @@ Die Logik besteht aus drei Schritten: **Split-Apply-Combine**.
 - **Apply** : eine Aggregatfunktion wird auf jeder Gruppe ausgeführt.
 - **Combine** : die Ergebnisse werden in ein neues DataFrame gepackt.
 
-----
 
 Beispiele
 ---------
